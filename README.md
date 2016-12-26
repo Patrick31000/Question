@@ -39,6 +39,7 @@ Q10: GNU est un projet de système d’exploitation libre lancé en 1983 par Ric
 Q11:HTTP signifie "HyperText  Transport Protocol", communément appelé un protocole  pour les informations transmises entre les serveurs web et leurs clients.  C’est la lettre S qui fait toute la différence entre  HTTP et HTTPS. Le S  est synonyme de  Secure (sécurité). Source AfricanBusinessJournal.info.
 
 Q12:Richard Matthew Stallman (né à Manhattan, le 16 mars 1953), connu aussi sous les initiales rms (en minuscules1), est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft »
-. Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU, le débogueur GNU mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.
+. Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU, le débogueur GNU mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make. Source Wikipedia
 
-Q13:
+Q13:DuckDuckGo est un méta-moteur de recherche dont la société éditrice est située à Valley Forge en Pennsylvanie. Il se distingue en utilisant les informations de crowdsourcing provenant d'autres sites (comme Wikipédia) dans le but d'enrichir les résultats traditionnels et d'améliorer la pertinence. Il propose aussi son propre moteur de recherche.
+La philosophie de ce moteur de recherche est de préserver la vie privée et de ne stocker aucune information personnelle concernant les utilisateurs. Source Wikipedia
