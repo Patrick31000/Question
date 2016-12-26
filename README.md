@@ -46,4 +46,5 @@ La philosophie de ce moteur de recherche est de préserver la vie privée et de 
 
 Q14:Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Elle occupe le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation. Source Wikipedia
 
-Q15:
+Q15:L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester, une à une, toutes les combinaisons possibles.
+Cette méthode est en général considérée comme la plus simple concevable. Elle permet de casser tout mot de passe en un temps fini indépendamment de la protection utilisée, mais le temps augmente avec la longueur du mot de passe. En théorie la complexité d'une attaque par force brute est une fonction exponentielle de la longueur du mot de passe, la rendant virtuellement impossible pour des mots de passe de longueur moyenne, mais en pratique des optimisations heuristiques peuvent donner des résultats dans des délais beaucoup plus courts. Source Wikipedia
