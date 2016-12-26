@@ -52,3 +52,7 @@ Cette méthode est en général considérée comme la plus simple concevable. El
 Q16: Linus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais. Il est connu pour avoir créé en 1991 le noyau Linux dont il continue de diriger le développement. Il en est considéré comme le « dictateur bienveillant ».
 
 Q17:
+
+Q18:Le coût d’un nom de domaine est largement tributaire de la nature du domaine. Un domaine en .info peut coûter moins de 1 $/mois, et un domaine .com, avec l’option whois privé peut coûter jusqu’à 30 $/mois selon le registrar. Source top10hebergeurs.com
+
+Q19:
