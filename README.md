@@ -15,3 +15,9 @@ Q3:
 255.255.255.0: C'est un masque de sous-réseau. Un masque de sous-réseau (désigné par subnet mask, netmask ou address mask en anglais) est un masque indiquant le nombre de bits d'une adresse IPv4 utilisés pour identifier le sous-réseau et le nombre de bits caractérisant les hôtes (ce qui indique aussi le nombre d'hôtes possibles dans ce sous-réseau). Sources Wikipedia
 
 127.0.0.1: C'est un locahost.C'est l'adresse IP d'un ordinateur local. Cette notion est utilisée pour simuler des communications IP sur un ordinateur mais sans envoyer de messages sur le réseau. Sources Wikipedia + materiel-informatique.be
+
+Q4:
+Copyright: Il désigne l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale. Il désigne donc un ensemble de lois en application, notamment, dans les pays du Commonwealth des Nations et aux États-Unis ; et qui diffère du droit d'auteur appliqué dans les pays de droit civil (tels que la France ou la Belgique). Source Wikipedia
+Copyleft: Le copyleft est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur (œuvre d'art, texte, programme informatique ou autre) d'utiliser, d'étudier, de modifier et de diffuser son œuvre, dans la mesure où cette même autorisation reste préservée. Sources Wikipedia
+
+Q5:
