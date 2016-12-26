@@ -36,4 +36,6 @@ Les travaux de Swartz ont également porté sur la sociologie, l'éducation civi
 
 Q10: GNU est un projet de système d’exploitation libre lancé en 1983 par Richard Stallman, puis maintenu par le projet GNU. Son nom est un acronyme récursif qui signifie en anglais « GNU’s Not UNIX » (littéralement, « GNU n’est pas UNIX »). Il reprend les concepts et le fonctionnement d’UNIX.
 
-Q11:
+Q11:HTTP signifie "HyperText  Transport Protocol", communément appelé un protocole  pour les informations transmises entre les serveurs web et leurs clients.  C’est la lettre S qui fait toute la différence entre  HTTP et HTTPS. Le S  est synonyme de  Secure (sécurité). Source AfricanBusinessJournal.info.
+
+Q12:
