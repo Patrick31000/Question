@@ -18,7 +18,7 @@ Q3:
 
 Q4:
 Copyright: Il désigne l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale. Il désigne donc un ensemble de lois en application, notamment, dans les pays du Commonwealth des Nations et aux États-Unis ; et qui diffère du droit d'auteur appliqué dans les pays de droit civil (tels que la France ou la Belgique). Source Wikipedia
-Copyleft: Le copyleft est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur (œuvre d'art, texte, programme informatique ou autre) d'utiliser, d'étudier, de modifier et de diffuser son œuvre, dans la mesure où cette même autorisation reste préservée. Sources Wikipedia
+Copyleft: Le copyleft est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur (œuvre d'art, texte, programme informatique ou autre) d'utiliser, d'étudier, de modifier et de diffuser son œuvre, dans la mesure où cette même autorisation reste préservée. Cette notion a été introduite par Richard Stallman. Sources Wikipedia
 
 Q5:Creative Commons (CC) est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, donnent aucun ou seulement quelques droits aux travaux. Le droit d'auteur (ou « copyright » dans les pays du Commonwealth et aux États-Unis) est plus restrictif. Source Wikipedia.
 
@@ -29,3 +29,11 @@ Q7: Qwant est un moteur de recherche français, créé le 16 février 2013, puis
 Q8: Stephen Gary Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain. Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.Source Wikipedia.
 
 Q9: En informatique, un bug (mot anglais bug) ou bogue est un défaut de conception d'un programme informatique à l'origine d'un dysfonctionnement. Un bug peut résider dans un logiciel applicatif, dans les logiciels tiers utilisés par ce logiciel applicatif, voire dans le firmware d'un composant matériel. Source Wikipedia
+
+Aaron Swartz: Aaron Hillel Swartz (né le 8 novembre 1986 à Chicago, mort le 11 janvier 2013 à New York1) est un informaticien américain, écrivain, meneur politique et militant de l'Internet.
+Swartz s'est impliqué dans le développement du format de flux Web RSS2, l'organisation Creative Commons3, le cadriciel de site Web web.py4 et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogami.
+Les travaux de Swartz ont également porté sur la sociologie, l'éducation civique et le militantisme. Source Wikipedia
+
+Q10: GNU est un projet de système d’exploitation libre lancé en 1983 par Richard Stallman, puis maintenu par le projet GNU. Son nom est un acronyme récursif qui signifie en anglais « GNU’s Not UNIX » (littéralement, « GNU n’est pas UNIX »). Il reprend les concepts et le fonctionnement d’UNIX.
+
+Q11:
