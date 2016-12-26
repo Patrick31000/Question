@@ -55,4 +55,11 @@ Q17:
 
 Q18:Le coût d’un nom de domaine est largement tributaire de la nature du domaine. Un domaine en .info peut coûter moins de 1 $/mois, et un domaine .com, avec l’option whois privé peut coûter jusqu’à 30 $/mois selon le registrar. Source top10hebergeurs.com
 
-Q19:
+Q19: - emailing promotionnel: Stratégie commerciale.
+     - emailing avec envois automatisés: Stratégie de relation de confiance avec le prospect.
+     - emailing à déclencheur: emailing se déclenche suite à une action du prospect.
+     - emailing de fidélisation: processus de parrainage par ex.
+     - emailing informatif: ce sont des campagnes de newsletters.
+Source: https://www.blogemailing.com/2012/05/les-differents-types-de-campagne/
+
+Q20:
